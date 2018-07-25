@@ -6,4 +6,6 @@
 * [EVE 世界格局](eve-shi-jie-ge-ju.md)
 * [EVE 自保能力](eve-zi-bao-neng-li.md)
 * [EVE 行星开发](eve-hang-xing-kai-fa.md)
+* [EVE 船](eve-chuan.md)
+* [EVE 技能](eve-ji-neng.md)
 
