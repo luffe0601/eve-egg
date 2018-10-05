@@ -9,7 +9,7 @@
 
 世界服，也就是宁静服\(tranquility\)，其实对新人不是特别友好，特别是在没有详细的入门指南的情况下，你需要一定的知识储备来应对这种情况，于是我，查谷歌，混qq群，在有了好几次惨痛的损船经历的情况下，我决定在我还是处于新手期（三个月）的时候，建立了这份 [gitbook](https://eve-egg.gitbook.io/eve/) 。
 
-
+网易已经宣布代理[EVE国服](http://evepc.163.com/)，2018年9月30日，晨曦服进入维护更新阶段，届时，国服版本将与世界服同步。
 
 OinO enjoy commander.
 
@@ -19,6 +19,6 @@ OinO enjoy commander.
 
 本项目 github 页面 [https://github.com/luffe0601/eve-egg](https://github.com/luffe0601/eve-egg)  
 本项目 gitbook 页面 [https://eve-egg.gitbook.io/eve](https://eve-egg.gitbook.io/eve)  
-_友情提示：gitbook.io在大陆存在失恋情况，建议自备梯子_  
-_note 2018 0725 现在还在基础写作阶段。欢迎去github页面催稿。_
+_note 2018 0725 现在还在基础写作阶段。欢迎去github页面催稿。  
+note 2018 1005 继续更新。_
 
