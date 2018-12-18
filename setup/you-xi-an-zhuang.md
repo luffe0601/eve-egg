@@ -10,7 +10,7 @@ description: 游戏安装
 
 点击 **DOWNLOAD EVE ONLINE** 下载 **客户端安装包**
 
-![](../.gitbook/setup_download.jpg) 客户端文件的大小只有100MB左右
+![](../.gitbook/assets/setup_download.jpg) 客户端文件的大小只有100MB左右
 
 之后有两个方法下载游戏数据
 
@@ -18,7 +18,7 @@ description: 游戏安装
 
 使用下载软件下载完整的游戏**数据包**
 
-![](../.gitbook/setup_followingfile.jpg)
+![](../.gitbook/assets/setup_followingfile.jpg)
 
 图里的 **following file** 就是了，建议你用下载软件（比如迅雷）下载这个文件
 
@@ -32,15 +32,15 @@ description: 游戏安装
 
 不想自己下载这个文件也可以，可以安装好客户端之后让客户端自动更新，不过呢，一样需要时间。
 
-安装好游戏之后，打开桌面的 **EVE Launcher** ![](../.gitbook/setup_launcher.jpg)
+安装好游戏之后，打开桌面的 **EVE Launcher** ![](../.gitbook/assets/setup_launcher.jpg)
 
-点击左下角的 **OPEN SETTINGS** , 然后勾选 **Download everything** ![](../.gitbook/setup_settings.jpg)
+点击左下角的 **OPEN SETTINGS** , 然后勾选 **Download everything** ![](../.gitbook/assets/setup_settings.jpg)
 
 然后点击 **CLOSE SETTINGS** ,接着等待下载完成，如果你在下载缓存的过程中断开了网络或者关机，重新启动客户端即可，客户端会继续下载，下载的同时你可以注册一个账号了。
 
 ## 客户端菜单
 
-打开菜单的位置 ![](../.gitbook/setup_setmenu.jpg)
+打开菜单的位置 ![](../.gitbook/assets/setup_setmenu.jpg)
 
 简单翻译一下
 
