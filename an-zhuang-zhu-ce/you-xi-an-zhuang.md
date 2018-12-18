@@ -7,5 +7,5 @@
 * 谷歌翻译
 * 老玩家指导
 
-![](/assets/eve_logo.jpg)
+![](../.gitbook/assets/eve_logo.jpg)
 
