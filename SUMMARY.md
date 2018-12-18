@@ -1,12 +1,24 @@
 # Table of contents
 
-* [简介](README.md)
-* [EVE 服用指南](eve-fu-yong-zhi-nan.md)
-* [EVE 新人教程](eve-xin-ren-jiao-cheng.md)
-* [EVE 世界格局](eve-shi-jie-ge-ju.md)
-* [EVE 自保能力](eve-zi-bao-neng-li.md)
-* [EVE 行星开发](eve-hang-xing-kai-fa/README.md)
-  * [行星开发 表](eve-hang-xing-kai-fa/hang-xing-kai-fa-biao.md)
-* [EVE 船](eve-chuan.md)
-* [EVE 技能](eve-ji-neng.md)
+* [前言](README.md)
+
+## 【安装注册】
+
+* [游戏简介](setup/you-xi-jian-jie.md)
+* [游戏安装](setup/you-xi-an-zhuang.md)
+* [注册账号](setup/zhu-ce-zhang-hao.md)
+* [网络问题](setup/wang-luo-wen-ti.md)
+* [steam](setup/steam.md)
+
+## 新人教学
+
+* [EVE 新人教程](test/eve-xin-ren-jiao-cheng.md)
+* [EVE 技能](test/eve-ji-neng.md)
+* [EVE 船](test/eve-chuan.md)
+* [EVE 自保能力](test/eve-zi-bao-neng-li.md)
+
+## 行星开发
+
+* [EVE 行星开发](hang-xing-kai-fa/eve-hang-xing-kai-fa.md)
+* [行星开发 表](hang-xing-kai-fa/hang-xing-kai-fa-biao.md)
 
