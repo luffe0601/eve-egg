@@ -4,18 +4,18 @@
 
 ## 【安装注册】
 
-* [游戏简介](setup/you-xi-jian-jie.md)
-* [游戏安装](setup/you-xi-an-zhuang.md)
-* [注册账号](setup/zhu-ce-zhang-hao.md)
-* [网络问题](setup/wang-luo-wen-ti.md)
-* [steam](setup/steam.md)
+* [游戏简介](an-zhuang-zhu-ce/intr.md)
+* [游戏安装](an-zhuang-zhu-ce/install.md)
+* [注册账号](an-zhuang-zhu-ce/reg.md)
+* [网络问题](an-zhuang-zhu-ce/network.md)
+* [steam](an-zhuang-zhu-ce/steam.md)
 
 ## 新人教学
 
-* [EVE 新人教程](intr/eve-xin-ren-jiao-cheng.md)
-* [EVE 技能](intr/eve-ji-neng.md)
-* [EVE 船](intr/eve-chuan.md)
-* [EVE 自保能力](intr/eve-zi-bao-neng-li.md)
+* [EVE 新人教程](xin-ren-jiao-xue/1.md)
+* [EVE 技能](xin-ren-jiao-xue/2.skill.md)
+* [EVE 船](xin-ren-jiao-xue/3.ships.md)
+* [EVE 自保能力](xin-ren-jiao-xue/self-safe.md)
 
 ## 行星开发
 
