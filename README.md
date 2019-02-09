@@ -1,7 +1,6 @@
 # 前言
 
-`保蛋还是被爆，这是个问题。Lose egg or hold egg, that's a question.` [`生存还是毁灭 -  维基百科`](https://zh.wikipedia.org/wiki/%E7%94%9F%E5%AD%98%E8%BF%98%E6%98%AF%E6%AF%81%E7%81%AD)  
-
+[保蛋还是被爆，这是个问题。Lose capsule or hold egg, that's a question. ](https://zh.wikipedia.org/wiki/%E7%94%9F%E5%AD%98%E8%BF%98%E6%98%AF%E6%AF%81%E7%81%AD)
 
 ## 缘起
 
